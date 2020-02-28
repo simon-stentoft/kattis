@@ -1,2 +1,2 @@
 # kattis
- open.kattis problems
+ open.kattis problem solutions, mostly python and c#
