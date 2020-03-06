@@ -10,3 +10,5 @@ for _ in range(n):
         print("does not matter")
     else:
         print("do not advertise")
+        
+ #https://open.kattis.com/problems/nastyhacks
